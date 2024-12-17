@@ -79,23 +79,7 @@ button{
 }
 
 
-/* @media screen and (max-width: 426px) {
-    .board{
-        width:200px;
-        height:200px;
-    }
-    .item{
-        width: 49px;
-        height: 49px;
-    }
-    .item8{
-        width:24px ;
-        height:24.3px ;
-    }
-    .item16{
-        width:11.8px ;
-        height:11.7px ;
-    }
+@media screen and (max-width: 426px) {
     button{
         width:75px ;
         height:25px ;
@@ -108,4 +92,4 @@ button{
     .header{
         font-size: 16px;
     }
-    } */
+    }
