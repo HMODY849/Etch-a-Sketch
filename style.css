@@ -20,7 +20,7 @@ body{
 
 .control{
     display: flex;
-    gap: 2em;
+    gap: 1em;
 }
 
 button{
@@ -90,10 +90,10 @@ button{
     }
     .item8{
         width:24px ;
-        height:24px ;
+        height:24.3px ;
     }
     .item16{
-        width:11.7px ;
+        width:11.8px ;
         height:11.7px ;
     }
     button{
