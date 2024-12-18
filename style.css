@@ -8,30 +8,24 @@ body{
 .containar{
     display: flex;
     flex-direction: column;
-    gap: 0.5em;
+    gap: 1em;
     align-items: center;
-    justify-content: center;
 }
 
 .header{
-    display: flex;
-    justify-content: center;
-    /* margin-top: 10px; */
+    margin-top: 10px;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 50px;
 }
 
 .control{
     display: flex;
-    /* flex-direction: column; */
-    /* align-items: center; */
-    gap: 1em;
-    margin-bottom: 10px;
+    gap: 2em;
 }
 
 button{
     width: 100px;
-    height: 40px;
+    height: 50px;
     border-radius: 10px;
     background-color: black;
     font-size: 20px;
@@ -49,10 +43,10 @@ button{
 }
 
 .item{
-    width: 99.45px;
-    height: 99.45px;
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
+    width: 99.3px;
+    height: 99px;
+    border-right: 1.3px solid black;
+    border-bottom: 1.3px solid black;
 }
 .item1{
     display: none;
@@ -63,22 +57,22 @@ button{
 }
 
 .item8{
-    width: 49.45px;
-    height: 49.5px;
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
+    width: 49.31px;
+    height: 49.31px;
+    border-right: 1.2px solid black;
+    border-bottom: 1.2px solid black;
 }
 
 .item16{
-    width: 24.45px;
-    height: 24.45px;
+    width: 24.32px;
+    height: 24.32px;
     border-right: 1px solid black;
     border-bottom: 1px solid black;
 }
 
 .cancelRazer{
     width:50px;
-    height: 40px;
+    height: 50px;
     background-color: rgb(229, 0, 0);
     color: white;
     border: 0px ;
